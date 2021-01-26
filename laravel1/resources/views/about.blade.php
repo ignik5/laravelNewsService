@@ -1,0 +1,2 @@
+@include('menu')
+О нас 

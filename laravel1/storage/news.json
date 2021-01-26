@@ -1,0 +1,50 @@
+{
+    "1": {
+        "id": 1,
+        "title": "новость политики  1",
+        "text": "у нас новость 1 и она очень интересная",
+        "isprivate": true,
+        "image": null,
+        "category_id": 1
+    },
+    "2": {
+        "id": 2,
+        "title": "новость спорта 1",
+        "text": "у нас новость 2",
+        "isprivate": false,
+        "image": null,
+        "category_id": 2
+    },
+    "3": {
+        "id": 3,
+        "title": "новость политики 2",
+        "text": "у навального отвалилась писька",
+        "isprivate": false,
+        "image": null,
+        "category_id": 1
+    },
+    "4": {
+        "id": 4,
+        "title": "новость спорта 2",
+        "text": "у нас новость 4",
+        "isprivate": false,
+        "image": null,
+        "category_id": 2
+    },
+    "5": {
+        "id": 5,
+        "title": "новость спорта 3",
+        "text": "у нас новость 4",
+        "isprivate": false,
+        "image": null,
+        "category_id": 2
+    },
+    "6": {
+        "id": 6,
+        "title": "новость спорта 4",
+        "text": "у нас новость 4",
+        "isprivate": false,
+        "image": null,
+        "category_id": 2
+    }
+}
